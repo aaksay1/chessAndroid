@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="homeTitle">Chess</string>
+    <string name="playButton">PLAY</string>
+    <string name="recordingsButton">RECORDINGS</string>
+
+    <string name="drawButton">DRAW</string>
+    <string name="undoButton">UNDO</string>
+    <string name="aiButton">AI</string>
+    <string name="resignButton">RESIGN</string>
+    <string name="endGameButton">END GAME</string>
+
+    <string name="sortByDateButton">SORT BY DATE</string>
+    <string name="sortByTitleButton">SORT BY TITLE</string>
+    <string name="deleteButton">DELETE</string>
+
+    <string name="nextMoveButton">NEXT MOVE</string>
+</resources>

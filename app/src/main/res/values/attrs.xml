@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="board">
+        <attr name="boardColor" format ="color"/>
+        <attr name="wColor" format ="color"/>
+        <attr name="bColor" format ="color"/>
+    </declare-styleable>
+</resources>
